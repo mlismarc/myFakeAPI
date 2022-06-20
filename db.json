@@ -1,0 +1,12 @@
+{
+    "videogames":[
+        {"id": 1, "name": "video Juegos 1", "consola": "Sonic"},
+        {"id": 2, "name": "video Juegos 2", "consola": "Sonic"},
+        {"id": 3, "name": "video Juegos 3", "consola": "XBOX"}
+    ],
+    "consolas":[
+        {"id": 1, "name_consola": "Sonic", "categoria": "2D"},
+        {"id": 2, "name_consola": "Sonic", "categoria": "3D"},
+        {"id": 3, "name_consola": "XBOX", "categoria": "2D-3D"}
+    ]
+}
